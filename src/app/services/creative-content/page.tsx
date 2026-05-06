@@ -16,25 +16,26 @@ const capabilities = [
     title: "Creative strategy & messaging",
     description:
       "Positioning, hooks, and angles informed by audience research — translated into creative directions that perform.",
-    imageSrc: "/images/creative-content.jpg",
+    imageSrc:
+      "/images/creative-content-capabilities/asian-graphic-designer-uses-editing-software-photo-retouching.jpg",
   },
   {
     title: "Performance ad creative",
     description:
       "Concepts designed for testing: variations, cutdowns, formats, and edits built to drive measurable outcomes.",
-    imageSrc: "/images/technology-hologram-indoors.jpg",
+    imageSrc: "/images/creative-content-capabilities/winter-sports-concept-composition.jpg",
   },
   {
     title: "Content that compounds",
     description:
       "Organic + paid content systems that build trust, improve CTR, and lift conversion over time.",
-    imageSrc: "/images/leadership.jpg",
+    imageSrc: "/images/creative-content-capabilities/product-design-drawing-website-graphic.jpg",
   },
   {
     title: "Production & iteration pipeline",
     description:
       "Fast briefs, clear feedback loops, and a repeatable workflow so your team can ship consistently.",
-    imageSrc: "/images/website-production.jpg",
+    imageSrc: "/images/creative-content-capabilities/filmmaker-refining-movie-footage.jpg",
   },
 ];
 

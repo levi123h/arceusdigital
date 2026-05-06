@@ -16,25 +16,28 @@ const capabilities = [
     title: "Technical SEO foundation",
     description:
       "Crawlability, indexing, site structure, speed, and clean templates — so every new page ships with SEO baked in.",
-    imageSrc: "/images/seo-ai-search.jpg",
+    imageSrc:
+      "/images/seo-ai-capabilities/hand-touching-with-search-icon-search-engine-optimisation-seo-concept-find-information-by-internet-connection.jpg",
   },
   {
     title: "Content strategy & topical authority",
     description:
       "Intent mapping, content clusters, and editorial systems that grow visibility and trust over time.",
-    imageSrc: "/images/creative-content.jpg",
+    imageSrc: "/images/seo-ai-capabilities/keyword-seo-content-website-tags-search.jpg",
   },
   {
     title: "AI search optimization",
     description:
       "Structured pages, clear entities, and proof-driven content designed to surface in modern AI-driven search experiences.",
-    imageSrc: "/images/technology-hologram-indoors.jpg",
+    imageSrc:
+      "/images/seo-ai-capabilities/front-view-woman-using-virtual-reality-headset.jpg",
   },
   {
     title: "Measurement & iteration",
     description:
       "Search reporting that ties traffic to outcomes — and a roadmap that prioritizes what moves revenue, not vanity metrics.",
-    imageSrc: "/images/lead-generation.jpg",
+    imageSrc:
+      "/images/seo-ai-capabilities/close-up-hand-holding-futuristic-screen.jpg",
   },
 ];
 
