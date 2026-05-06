@@ -53,8 +53,8 @@ export function Footer() {
                   </a>
                 </p>
                 <p>
-                  <a className="transition hover:text-white" href="tel:+10000000000">
-                    +1 (000) 000-0000
+                  <a className="transition hover:text-white" href="tel:+84969393304">
+                    +84969393304
                   </a>
                 </p>
               </div>

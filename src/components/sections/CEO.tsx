@@ -15,7 +15,7 @@ export function CEO() {
             <div className="relative h-full min-h-[360px] overflow-hidden rounded-2xl border border-white/12 bg-white/[0.02]">
               <Image
                 src="/images/leadership.jpg"
-                alt="Levi Hung, CEO, Arceus Digital"
+                alt="Hung Ho, CEO, Arceus Digital"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 42vw"
@@ -39,7 +39,7 @@ export function CEO() {
             </blockquote>
             <div className="mt-8 border-t border-white/10 pt-6">
               <p className="text-base font-semibold tracking-tight">
-                Levi Hung
+                Hung Ho
               </p>
               <p className="mt-1 text-sm text-white/70">
                 CEO, Arceus Digital
